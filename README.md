@@ -1,24 +1,13 @@
-# README
+# Ozone
+This project uses the AirNow API to look up the air quality index (AQI) by zip code. The AQI was developed by the EPA
+and calculates scores based on levels of ozone, air particle pollution, and other pollutants. 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## AQI Scale
+The application takes a zip code and displays a score of the AQI rating and a color coded categories corresponding to the 
+[chart](https://docs.airnowapi.org/aq101) on the AirNow website.
 
-Things you may want to cover:
+## Technologies
+Ruby version 2.7.6
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Running the project
+...
